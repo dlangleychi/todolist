@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: todolist_dlangley
+Version: 0.1.0
+Summary: A fantastic todo list application.
+Author-email: Dan Langley <dlangley812@hotmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/dlangleychi/todolist
+Project-URL: Issues, https://github.com/dlangleychi/todolist/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# todolist
